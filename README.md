@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wisauw</h1>
 <h3 align="center">A 22yo student who love to learn</h3>
 
-- 🌱 I’m currently learning **Php and Laravel**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
