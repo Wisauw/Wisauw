@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wisauw</h1>
-<h3 align="center">A 22yo student who love to learn</h3>
+<h3 align="center">A 23yo student who love to learn</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
