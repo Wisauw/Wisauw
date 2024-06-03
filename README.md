@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Sebastian and I'm a Software software engineer from Chile</h2>
 
-
-
-<br clear="both">
-
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VraGR2NHRna3dyMG1tcXhweTAyczdtaWxxanZjdWF1ejg0aXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/berfNtGgsNRk4WOcA1/giphy.gif"  />
-
 ###
 
 <div align="left">
@@ -46,16 +40,16 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VraGR2NHRna3dyMG1tcXhweTAyczdtaWxxanZjdWF1ejg0aXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/berfNtGgsNRk4WOcA1/giphy.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wisauw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wisauw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-
 
 ###
 
