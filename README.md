@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Wisauw/Wisauw/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
