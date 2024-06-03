@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastian and I'm a Software engineer from Chile</h2>
+<h2 align="left">Hi 👋! My name is Sebastian and I'm a Software software engineer from Chile</h2>
 
 ###
 
@@ -47,9 +47,5 @@
 ###
 
 <p align="center">📚 I'm currently learning Astro and React.</p>
-
-###
-
-
 
 ###
