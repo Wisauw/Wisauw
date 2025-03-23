@@ -1,7 +1,26 @@
-<h2 align="left">Hi 👋! My name is Sebastian and I'm a Software engineer from Chile.</h2>
 
-###
+<div align="center">
+  <img align="left" height="150" src="https://media.giphy.com/media/u2491Ba7IUg1RfMeo2/giphy.gif" alt="Scratch Foundation space cat"/>
+  <div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=34&duration=4000&pause=5000&color=F7F7F7FF&repeat=false&width=450&lines=Hi+%2C+I'm+Sebastian+Riveros" alt="Typing SVG" /></a>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=4000&pause=1000&color=7611A6&width=450&lines=Software+engineer;.NET+Dev;Python+Dev;Javascript;Automatization" alt="Typing SVG" /></a>
+  </div>
+</div>
 
+<div align="center">
+  <h2>Connect with me:</h2>
+  <div>
+     <a href="https://linkedin.com/in/sirc/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    </a>
+    <a href="https://sebastianriveros.is-a.dev/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" height="35" alt="Personal Website" />
+    </a>
+  </div>
+</div>
+
+## Skills & Technologies
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
@@ -38,21 +57,22 @@
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
 </div>
 
-###
+## About Me
+- 🔭 I'm currently working on a IoT dashboard 
+- 📚 I'm currently learning Astro and React
 
-<br clear="both">
+<img align="right" height="200" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VraGR2NHRna3dyMG1tcXhweTAyczdtaWxxanZjdWF1ejg0aXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/berfNtGgsNRk4WOcA1/giphy.gif" />
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VraGR2NHRna3dyMG1tcXhweTAyczdtaWxxanZjdWF1ejg0aXNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/berfNtGgsNRk4WOcA1/giphy.gif"  />
-
-###
-
+## GitHub Stats
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wisauw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wisauw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wisauw&theme=dracula&hide_border=false" height="150" alt="GitHub streak stats" />
 </div>
 
-###
-
-<p align="center">📚 I'm currently learning Astro and React.</p>
-
-###
+## Recent Projects
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wisauw&repo=PyDash&theme=dracula" />
+  </a>
+ 
+</div>
